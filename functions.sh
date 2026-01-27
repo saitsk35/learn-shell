@@ -4,3 +4,6 @@ sample() {
   echo Sample Function
 }
 
+# Calling the Function
+sample
+
