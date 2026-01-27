@@ -13,5 +13,5 @@ sample1
 
 # access variable across functions
 a=10
-source common.sh
+sample2
 echo b - $b
