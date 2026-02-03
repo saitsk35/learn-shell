@@ -10,9 +10,9 @@ while [ $x -gt 0 ]; do
   sleep 0
 done
 
-y=5000
+y=5
 while [ $y -gt 0 ]; do
   echo "Value: $y"
-  y=$((y+1; y+5))
+  y=$((y+1))
   sleep 1
 done
