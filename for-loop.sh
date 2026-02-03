@@ -1,5 +1,5 @@
 for FRUIT in apple orange; do
   echo Fruit Nmae - $FRUIT
-  sleep1
+  sleep 1
 done
 
