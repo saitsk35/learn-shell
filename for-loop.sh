@@ -4,5 +4,5 @@ for FRUIT in apple orange banana; do
 done
 
 for variable in item1 item2 item3; do
-    command
+    commands
 done
