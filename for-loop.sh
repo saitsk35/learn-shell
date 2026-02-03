@@ -13,6 +13,6 @@ done
 y=5000
 while [ $y -gt 0 ]; do
   echo "Value: $y"
-  y=$((y+1))
+  y=$((y+1 ; y+5))
   sleep 1
 done
