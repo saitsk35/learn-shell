@@ -9,3 +9,10 @@ while [ $x -gt 0 ]; do
   x=$((x-1))
   sleep 2
 done
+
+y=5
+while [ $y -gt 0 ]; do
+  echo "Value: $y"
+  y=$((y=1))
+  sleep 2
+done
