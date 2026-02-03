@@ -13,6 +13,6 @@ done
 y=5
 while [ $y -gt 0 ]; do
   echo "Value: $y"
-  y=$((y=1))
+  y=$((y+1))
   sleep 2
 done
