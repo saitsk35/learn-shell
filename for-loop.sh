@@ -1,5 +1,8 @@
 for FRUIT in apple banana orange; do
   echo Fruit Name - $FRUIT
-  sleep 3
+  sleep 4
 done
 
+for variable in item1 item2 item3; do
+  commands
+done
