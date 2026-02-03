@@ -4,5 +4,5 @@ for FRUIT in apple banana orange; do
 done
 
 for variable in item1 item2 item3; do
-  commands
+    echo Fruit Name - $FRUIT
 done
