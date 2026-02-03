@@ -4,7 +4,7 @@
 #done
 
 X=5
-while [ $X - gt 0 ]; do
+while [ $X -gt 0 ]; do
   echo "Value: $X"
-  X=$((x-1))
+  X=$((X-1))
 done
