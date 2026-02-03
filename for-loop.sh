@@ -3,8 +3,8 @@ for FRUIT in apple orange banana; do
   sleep 1
 done
 
-X=5
-while [ $X -gt 0 ]; do
-  echo "Value: $X"
-  X=$((X-1))
+x=5
+while [ $x -gt 0 ]; do
+  echo "Value: $x"
+  x=$((x-1))
 done
