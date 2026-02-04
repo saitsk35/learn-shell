@@ -27,7 +27,6 @@ sample1() {
   echo Second argument - $2
   echo All argument - $*
   echo No of arguments - $#
-
 }
 
 x=10
