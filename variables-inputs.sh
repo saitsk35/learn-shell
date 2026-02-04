@@ -1,7 +1,3 @@
 x=100
-
+x=1
 echo x - $x
-
-y=1
-y=$1
-echo y - $y
