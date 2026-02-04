@@ -38,3 +38,5 @@ sample
 
 x=100 sample
 x=200 sample
+
+sample1 1000 2000
