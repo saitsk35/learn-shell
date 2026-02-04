@@ -8,6 +8,5 @@ echo All Arguments - $*
 echo No of Arguments - $#
 
 # read
-y=200
 read -p 'Enter y: ' y
 echo y - $y
