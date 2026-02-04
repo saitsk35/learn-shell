@@ -18,15 +18,12 @@
 
 
 
-
-
-
 sample() {
-  echo x = $x
+  echo x - $x
 }
 
-x=10
+x=100
 sample
 
-x=20
+x=200
 sample
